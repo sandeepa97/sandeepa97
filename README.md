@@ -4,10 +4,10 @@
 
 - while ( !( succeed = try() ));
 
-- 🌱 2021 Goals: Contribute more to Open Source projects
+- 2021 Goals: Contribute to more Projects 🌱 
 
 
-### Connect with me:
+### Social Links:
 
 [<img align="left" alt="sandeepa.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
