@@ -4,7 +4,7 @@
 
 - while ( !( succeed = try() ));
 
-- 2021 Goals: Contribute to more Projects 🌱 
+- 2021 Goals: More Projects 🌱 
 
 
 ### Social Links:
