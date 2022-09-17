@@ -44,7 +44,7 @@
 ---
 
 [website]: http://sandeepa.net
-[twitter]: https://twitter.com/sandeepa_97
+[twitter]: https://twitter.com/sandeepa_loku
 [youtube]: https://www.youtube.com/c/SandeepaUmayanga
 [instagram]: https://instagram.com/sandeepa_97
 [linkedin]: https://linkedin.com/in/sandeepa97
