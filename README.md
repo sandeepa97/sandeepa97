@@ -43,7 +43,7 @@
 
 ---
 
-[website]: http://sandeepa.net
+[website]: https://sandeepa.net
 [twitter]: https://twitter.com/sandeepa_loku
 [youtube]: https://www.youtube.com/c/SandeepaUmayanga
 [instagram]: https://instagram.com/sandeepa_97
