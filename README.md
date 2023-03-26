@@ -1,10 +1,10 @@
 ### Hello World, I'm Sandeepa [Loku][website] 👋
 
-## I'm a Full-Stack Engineer!!
+## I'm a Software Engineer!!
 
 - while ( !( succeed = try() ));
 
-- 2022 Goals: More Projects 🌱 
+- 2023 Goals: Develop More Cool Projects 🌱 
 
 
 ### Social Links:
@@ -45,7 +45,7 @@
 
 [website]: https://sandeepa.net
 [twitter]: https://twitter.com/sandeepa_loku
-[youtube]: https://www.youtube.com/c/SandeepaUmayanga
+[youtube]: https://www.youtube.com/c/SandeepaLoku
 [instagram]: https://instagram.com/sandeepa_97
 [linkedin]: https://linkedin.com/in/sandeepa97
 [#]: #
