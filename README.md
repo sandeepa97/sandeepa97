@@ -2,12 +2,19 @@
 
 ## I'm a Software Engineer!!
 
-- while ( !( succeed = try() ));
+- while (
+    !( succeed = try() )
+    );
 
 - 2023 Goals: Develop More Cool Projects 🌱 
 
 
 ### Social Links:
+
+- Personal Website : [sandeepa.net][website]
+- Email : [hello@sandeepa.net](mailto:hello@sandeepa.net)
+- Linked In : [linkedin.com/in/sandeepa97/][linkedin]
+- Twitter : [twitter.com/sandeepa_loku][twitter]
 
 [<img align="left" alt="sandeepa.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -37,15 +44,17 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][#]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][#]
 
-
 <br />
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepa97&show_icons=true)
+
 <br />
 
 ---
 
 [website]: https://sandeepa.net
 [twitter]: https://twitter.com/sandeepa_loku
-[youtube]: https://www.youtube.com/c/SandeepaLoku
-[instagram]: https://instagram.com/sandeepa_97
 [linkedin]: https://linkedin.com/in/sandeepa97
 [#]: #
