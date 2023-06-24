@@ -2,9 +2,12 @@
 
 ## I'm a Software Engineer!!
 
-- while (
-    !( succeed = try() )
-    );
+``` python
+while True:
+    succeed = try()
+    if succeed:
+        break
+```
 
 - 2023 Goals: Develop More Cool Projects 🌱 
 
