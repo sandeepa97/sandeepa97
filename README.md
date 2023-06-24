@@ -1,6 +1,6 @@
 ### Hello World, I'm Sandeepa [Loku][website] 👋
 
-## I'm a Software Engineer!!
+## Software Engineer | Data Science Enthusiastic
 
 ``` python
 while True:
