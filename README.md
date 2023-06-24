@@ -14,14 +14,14 @@ while True:
 
 ### Social Links:
 
-- Personal Website : [sandeepa.net][website]
-- Email : [hello@sandeepa.net](mailto:hello@sandeepa.net)
-- Linked In : [linkedin.com/in/sandeepa97/][linkedin]
-- Twitter : [twitter.com/sandeepa_loku][twitter]
+- [<img align="left" alt="sandeepa.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+Personal Website : [sandeepa.net][website]
+- [<img align="left" alt="sandeepa.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] Linked In : [linkedin.com/in/sandeepa97/][linkedin]
+- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] Twitter : [twitter.com/sandeepa_loku][twitter]
 
 [<img align="left" alt="sandeepa.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://icons8.com/icon/13930/linkedin" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
