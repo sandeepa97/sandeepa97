@@ -8,9 +8,9 @@ while True:
     if succeed:
         break
 ```
-
-- 2023 Goals: Develop More Cool Projects 🌱 
-
+```
+2023 Goals: Develop More Cool Projects 🌱 
+```
 
 ### Social Links:
 
