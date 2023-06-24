@@ -15,7 +15,7 @@ while True:
 ### Social Links:
 
 * [<img align="left" alt="sandeepa.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][#]Personal Website : [sandeepa.net][website]
-* [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][#]Linked In : [linkedin.com/in/sandeepa97][linkedin]
+* [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][#]LinkedIn : [linkedin.com/in/sandeepa97][linkedin]
 * [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][#]Twitter : [twitter.com/sandeepa_loku][twitter]
 
 <br />
